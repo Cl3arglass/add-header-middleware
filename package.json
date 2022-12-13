@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@vercel/edge": "^0.1.2",
     "@vercel/examples-ui": "^1.0.4",
     "next": "canary",
     "react": "latest",
